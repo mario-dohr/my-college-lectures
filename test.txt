@@ -1,0 +1,11 @@
+DeepLearning/
+TheoreticalML/
+UnsupervisedML/
+Untitled.ipynb
+nlp-chapter-3.ipynb
+pipinfo.txt
+pipinfo.txt.orig
+playground.ipynb
+requirements.txt
+test.txt
+venv/
