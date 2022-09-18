@@ -1,0 +1,13 @@
+DeepLearning/
+LSTM/
+Pipfile
+Pipfile.lock
+TheoreticalML/
+UnsupervisedML/
+Untitled.ipynb
+nlp-chapter-3.ipynb
+pipinfo.txt
+playground.ipynb
+requirements.txt
+test.txt
+venv/
