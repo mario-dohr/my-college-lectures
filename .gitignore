@@ -131,3 +131,4 @@ ui-tests/playwright-report
 .idea/
 .ipynb_checkpoints/
 
+/LSTM/runs/
