@@ -132,3 +132,5 @@ ui-tests/playwright-report
 .ipynb_checkpoints/
 
 /LSTM/runs/
+/GAN/cifar-10-batches-py/*
+/GAN/cifar-10-python.tar.gz
